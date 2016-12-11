@@ -1,0 +1,7 @@
+Package: com.salmuhairi.infiniloader
+Name: Infiniloader
+Depends: anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test Theme
+Section: Themes (SpringBoard)
